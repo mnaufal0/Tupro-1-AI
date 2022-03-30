@@ -25,8 +25,8 @@ Alanalyze, Design, and Implementation a Genetic Algorithm(GA) To Get The Minimum
 **Link**
 
 -----------------------------------------------------------------------------------------------------------------------
-1. Laporan "/t": https://telkomuniversityofficial-my.sharepoint.com/:w:/g/personal/indirachrisna_365_telkomuniversity_ac_id/Ec3iKjy4e5NNngtfQll7D1QBGtCtHP2lPl1FkbFitahbCA?e=4fcX7s
-2. Code    /t: https://github.com/mnaufal0/Tupro-1-AI/blob/main/main.py
-3. Slide   /t:
-4. Youtube /t: 
+1. Laporan '/t': https://telkomuniversityofficial-my.sharepoint.com/:w:/g/personal/indirachrisna_365_telkomuniversity_ac_id/Ec3iKjy4e5NNngtfQll7D1QBGtCtHP2lPl1FkbFitahbCA?e=4fcX7s
+2. Code : https://github.com/mnaufal0/Tupro-1-AI/blob/main/main.py
+3. Slide :
+4. Youtube : 
 
