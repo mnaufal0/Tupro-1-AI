@@ -103,7 +103,7 @@ def generationalReplacement(): #generational Replacement untuk mengganti populas
     population = newPopulation  #Replace Population
     return population
 
-print(generationalReplacement())
+#print(generationalReplacement())
 
 def PrintAll(population, population_size):
     fitness = evaluate(population, population_size) #Evaluate
