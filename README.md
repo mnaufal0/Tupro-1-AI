@@ -4,7 +4,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Alanalyze, Design, and Implementation a Genetic Algorithm(GA) To Get The Minimum Value a function:
+Alanalyze, Design, and Implementation a Genetic Algorithm(GA) To Get The Minimum Value a Function:
 
 ![fungsi](https://user-images.githubusercontent.com/42025391/160826556-3091756a-e87a-471e-b725-771c8df8be85.PNG)
 
