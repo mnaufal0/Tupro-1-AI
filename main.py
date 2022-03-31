@@ -29,7 +29,7 @@ def decodeY(chromosome):
 def fitnessFunction(chromosome): #Fitness Function
     x = decodeX(chromosome) #Decode X
     y = decodeY(chromosome) #Decode Y
-    return ((math.cos(x)+math.sin(y))**2) / (x**2 + y**2) #Fitness Function
+    return 1/(0.0001+((math.cos(x)+math.sin(y))**2) / (x**2 + y**2)) #Fitness Function
 #print("Fitness Function: ", fitnessFunction(generateChromosome(8)))
 
 def evaluate(population, population_size): #menambahkan nilai fitness ke dalam array
@@ -119,9 +119,8 @@ def PrintAll(population, population_size):
     print("Y : ", y)
     print("=================Tambahan Info============================")
     print("Fitness Terbaik : ", Bestfitness)
-    print("Jumlah Generasi : ", generation)
     print("=======================Selesai============================")
     print("\n")
 
-#gen = generationalReplacement()
-#PrintAll(gen, 100)
+gen = generationalReplacement()
+PrintAll(gen, 100)
